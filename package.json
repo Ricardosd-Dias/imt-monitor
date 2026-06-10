@@ -1,0 +1,11 @@
+{
+  "name": "imt-monitor",
+  "version": "1.0.0",
+  "description": "Monitoriza apoios.imt-ip.pt e envia email quando detecta alterações relevantes",
+  "type": "module",
+  "main": "src/check.mjs",
+  "scripts": {
+    "check": "node src/check.mjs"
+  },
+  "license": "MIT"
+}

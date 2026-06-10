@@ -19,7 +19,7 @@ const KEYWORDS = [
   '2026',
 ];
 
-const TO_EMAILS = ['ricardosd.dias@gmail.com', 'sandra.dias@lourifrotas.com'];
+const TO_EMAILS = ['ricardosd.dias@gmail.com'];
 const FROM_EMAIL = 'onboarding@resend.dev';
 
 function htmlToText(html) {

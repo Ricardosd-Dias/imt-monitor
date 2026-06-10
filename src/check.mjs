@@ -1,7 +1,7 @@
 import { createHash } from 'node:crypto';
 import { readFile, writeFile } from 'node:fs/promises';
 
-const URL_TO_CHECK = 'https://apoios.imt-ip.pt/';
+const URL_TO_CHECK = 'https://www.imt-ip.pt/';
 const HASH_FILE = 'last-hash.txt';
 
 const KEYWORDS = [
